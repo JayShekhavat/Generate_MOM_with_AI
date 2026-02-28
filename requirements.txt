@@ -1,0 +1,10 @@
+openai-whisper
+transformers
+torch
+spacy
+fpdf
+pandas
+numpy
+streamlit
+fastapi
+uvicorn
